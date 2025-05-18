@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "xg-app-worker1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9ca8aff5-f15b-45ff-83a8-b8b8145d8bd9",
+      "database_name": "xg-waitlist"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
